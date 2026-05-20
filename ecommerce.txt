@@ -1,0 +1,119 @@
+<html>
+<head>
+<title>E-Commerce Makanan</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Toko Makanan Lezat</h1>
+    <p>Belanja makanan favoritmu!</p>
+</header>
+
+<nav>
+<ul>
+    <li><a href="#">Beranda</a></li>
+
+    <li><a href="#">Makanan</a>
+        <ul>
+            <li><a href="#">Makanan Berat</a></li>
+            <li><a href="#">Makanan Ringan</a></li>
+        </ul>
+    </li>
+
+    <li><a href="#">Minuman</a>
+        <ul>
+            <li><a href="#">Minuman Dingin</a></li>
+            <li><a href="#">Minuman Panas</a></li>
+        </ul>
+    </li>
+
+    <li><a href="#">Dessert</a>
+        <ul>
+            <li><a href="#">Kue</a></li>
+            <li><a href="#">Es Krim</a></li>
+        </ul>
+    </li>
+
+    <li><a href="#">Promo</a>
+        <ul>
+            <li><a href="#">Diskon</a></li>
+            <li><a href="#">Paket Hemat</a></li>
+        </ul>
+    </li>
+
+    <li><a href="#">Kontak</a>
+        <ul>
+            <li><a href="#">WhatsApp</a></li>
+            <li><a href="#">Email</a></li>
+        </ul>
+    </li>
+
+    <li><a href="#">Register</a></li>
+</ul>
+</nav>
+
+<div class="container">
+    <h2>Produk Makanan</h2>
+
+    <div class="products">
+
+        <!-- 6 Produk -->
+        <div class="card">
+            <img src="https://via.placeholder.com/200">
+            <h3>Nasi Goreng</h3>
+            <p>Nasi goreng spesial dengan ayam dan telur</p>
+            <p>Rp 25.000</p>
+            <button>Beli</button>
+        </div>
+
+        <div class="card">
+            <img src="https://via.placeholder.com/200">
+            <h3>Mie Goreng</h3>
+            <p>Mie goreng lezat dengan bumbu khas</p>
+            <p>Rp 20.000</p>
+            <button>Beli</button>
+        </div>
+
+        <div class="card">
+            <img src="https://via.placeholder.com/200">
+            <h3>Sate Ayam</h3>
+            <p>Sate ayam dengan saus kacang</p>
+            <p>Rp 30.000</p>
+            <button>Beli</button>
+        </div>
+
+        <div class="card">
+            <img src="https://via.placeholder.com/200">
+            <h3>Bakso</h3>
+            <p>Bakso kenyal dengan kuah gurih</p>
+            <p>Rp 18.000</p>
+            <button>Beli</button>
+        </div>
+
+        <div class="card">
+            <img src="https://via.placeholder.com/200">
+            <h3>Ayam Goreng</h3>
+            <p>Ayam goreng crispy dan lezat</p>
+            <p>Rp 28.000</p>
+            <button>Beli</button>
+        </div>
+
+        <div class="card">
+            <img src="https://via.placeholder.com/200">
+            <h3>Rendang</h3>
+            <p>Rendang khas Padang yang kaya rempah</p>
+            <p>Rp 35.000</p>
+            <button>Beli</button>
+        </div>
+
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2026 Toko Makanan Lezat | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
